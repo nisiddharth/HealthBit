@@ -24,7 +24,7 @@ An Ethereum Blockchain based health industry solution focused on preventing the 
 
 ## Use case diagram
 
-![Use case diagram here](./UseCaseDiagram.png?raw=true)
+<img src="./UseCaseDiagram.png?raw=true" alt="Use Case Diagram" width="600"/>
 
 ## Team Members
 
